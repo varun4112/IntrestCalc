@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container{
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    width: 600px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.amt, .perc, .years {
+    margin-top: 10px !important;
+    width: 400px;
+}
+
+Button{
+    margin-left: 10px !important;
+}
+
+.total{
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(253, 253, 118);
+    padding: 50px;
+    margin-left: 75px;
+    margin-right: 75px
+}
